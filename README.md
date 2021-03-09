@@ -1,2 +1,2 @@
 # arithmetic-formatter
-python 
+first project on python 
